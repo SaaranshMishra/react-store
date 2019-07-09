@@ -4,7 +4,7 @@ An e-commerce store for selling mobiles built using frontend JavaScript framewor
 You can visit the site [here](https://react-e-comm.netlify.com/)
 
 ## Getting Started 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites 
 You will need [Node.js](https://nodejs.org/en/) installed on your system.
@@ -36,4 +36,4 @@ You will need [Node.js](https://nodejs.org/en/) installed on your system.
 * [React Paypal Express Checkout](https://www.npmjs.com/package/react-paypal-express-checkout) - A NPM package that renders the Paypal Express check-out button made using React components
 
 ## Author 
-* **[Saaransh Mishra]**(https://github.com/SaaranshMishra) 
+* [**Saaransh Mishra**](https://github.com/SaaranshMishra) 
